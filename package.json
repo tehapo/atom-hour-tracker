@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-hour-tracker:toggle"
+    "atom-workspace": "atom-hour-tracker:start-a-day"
   },
   "repository": "https://github.com/atom/atom-hour-tracker",
   "license": "MIT",

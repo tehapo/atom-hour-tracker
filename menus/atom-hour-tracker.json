@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-hour-tracker",
-        "command": "atom-hour-tracker:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
@@ -15,8 +7,8 @@
           "label": "atom-hour-tracker",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-hour-tracker:toggle"
+              "label": "Start a new day",
+              "command": "atom-hour-tracker:start-a-day"
             }
           ]
         }
