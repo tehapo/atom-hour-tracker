@@ -4,7 +4,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-hour-tracker",
+          "label": "Atom Hour Tracker",
           "submenu": [
             {
               "label": "Start a new day",
