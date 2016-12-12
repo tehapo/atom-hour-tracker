@@ -1,14 +1,12 @@
 # This is a sample file.
 
-Ke 23.11.
-08.00 - 17.00, -0.5h  | project-hello-world: Waving hands around like a crazy
-+1.0h                 | project-hello-world: Waving hands around like a crazy
+Ke 3.1.
+09.00 - 12.00           | atom-hour-tracker: Working on the Atom package
+12.30 - 17.00           | project-x: Coding like there is no tomorrow
++1.0h                   | atom-hour-tracker: Extra evening coding
 
-Ti 22.11.
-08.50 - 15.50, -0.5h  | project-hello-world: Waving hands around like a crazy
-16.48 - 17.40         | project-hello-world: Waving hands around like a crazy
-+1.0h                 | project-hello-world: Waving hands around like a crazy
+Ti 2.1.
+08.30 - 16.30, -1.5h    | project-x: Coding like an animal
 
-Ma 21.11.
-07.45 - 08.35         | project-hello-world: Waving hands around like a crazy
-08.50 - 15.40, +0.75h | project-hello-world: Waving hands around like a crazy
+Ma 1.1.
+08.30 - 16.30, -0.5h    | project-x: Coding like a monkey
